@@ -19,9 +19,9 @@ Este projeto tem como objetivo a **limpeza, padronização e organização** de 
 ## 📁 Estrutura
 
 📦 projeto-padronizacao-vendas
-  ├── analise.ipynb # Notebook com o processo completo
-  ├── novo_arquivo.csv # Base de dados original
-  ├── dados_limpos.csv # Resultado final após limpeza
+  -├── analise.ipynb # Notebook com o processo completo
+  -├── novo_arquivo.csv # Base de dados original
+  -├── dados_limpos.csv # Resultado final após limpeza
 
 
 ## 🔍 Etapas Realizadas
